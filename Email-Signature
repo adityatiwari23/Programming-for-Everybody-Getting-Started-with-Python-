@@ -35,7 +35,9 @@
       <div class="container">
          <p><strong><code>To: shivanshu.mthr8@gmail.com</code></strong><br><br><strong>Hey Smarty!</strong>,</i><br><br>
             Hope you are <del>doing</del> <strong>coding</strong> well!<br><br>
-            It has been so long we didn't meet, let's catch up someday! <br><br>
+            It has been so long we didn't meet, let's catch up someday!                   
+            <a href="https://github.com/smilegupta"><i class="fab fa-github fa-2x"></i></a>
+            <a href="https://www.linkedin.com/in/smilegupta/"><i class="fab fa-linkedin fa-2x"></i></a> <br><br>
          </p>
          <table id="sig" width='320' cellspacing='0' cellpadding='0' border-spacing='0'>
             <tr>
@@ -58,8 +60,6 @@
                   <span style="opacity:0.8">
                   <a href="https://www.facebook.com/smilegupta.1998"><i class="fab fa-facebook-square fa-2x"></i></a>
                   <a href="https://twitter.com/gupta_smile_"><i class="fab fa-twitter fa-2x"></i></a>
-                  <a href="https://github.com/smilegupta"><i class="fab fa-github fa-2x"></i></a>
-                  <a href="https://www.linkedin.com/in/smilegupta/"><i class="fab fa-linkedin fa-2x"></i></a>
                   </span>        
                </td>
             </tr>
